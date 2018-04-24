@@ -1,8 +1,8 @@
 Package.describe({
     summary: "NProgress for Meteor",
     version: "0.2.0",
-    git: "https://github.com/zhouzhuojie/meteor-nprogress.git",
-    name: "mrt:nprogress"
+    git: "https://github.com/martindan/meteor-nprogress.git",
+    name: "martindan:nprogress"
 });
 
 Package.onUse(function (api) {
